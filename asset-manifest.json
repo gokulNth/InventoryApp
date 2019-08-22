@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.js": "/InventoryApp/static/js/main.1493ee31.chunk.js",
-    "main.js.map": "/InventoryApp/static/js/main.1493ee31.chunk.js.map",
-    "runtime~main.js": "/InventoryApp/static/js/runtime~main.2f401b8a.js",
-    "runtime~main.js.map": "/InventoryApp/static/js/runtime~main.2f401b8a.js.map",
-    "static/js/2.6c796f95.chunk.js": "/InventoryApp/static/js/2.6c796f95.chunk.js",
-    "static/js/2.6c796f95.chunk.js.map": "/InventoryApp/static/js/2.6c796f95.chunk.js.map",
-    "index.html": "/InventoryApp/index.html",
-    "precache-manifest.bd3a31f29976542f01f1dc92373f40c5.js": "/InventoryApp/precache-manifest.bd3a31f29976542f01f1dc92373f40c5.js",
-    "service-worker.js": "/InventoryApp/service-worker.js",
-    "static/media/deleting.gif": "/InventoryApp/static/media/deleting.817596d6.gif",
-    "static/media/loading.gif": "/InventoryApp/static/media/loading.ed236853.gif"
+    "main.css": "/InventoryApp.git/static/css/main.2cce8147.chunk.css",
+    "main.js": "/InventoryApp.git/static/js/main.537f60ee.chunk.js",
+    "main.js.map": "/InventoryApp.git/static/js/main.537f60ee.chunk.js.map",
+    "runtime~main.js": "/InventoryApp.git/static/js/runtime~main.7d3c98e7.js",
+    "runtime~main.js.map": "/InventoryApp.git/static/js/runtime~main.7d3c98e7.js.map",
+    "static/js/2.4f057907.chunk.js": "/InventoryApp.git/static/js/2.4f057907.chunk.js",
+    "static/js/2.4f057907.chunk.js.map": "/InventoryApp.git/static/js/2.4f057907.chunk.js.map",
+    "index.html": "/InventoryApp.git/index.html",
+    "precache-manifest.509ab29303284a729648dda3a04eb2e4.js": "/InventoryApp.git/precache-manifest.509ab29303284a729648dda3a04eb2e4.js",
+    "service-worker.js": "/InventoryApp.git/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/InventoryApp.git/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/InventoryApp.git/static/media/logo.5d5d9eef.svg"
   }
 }
