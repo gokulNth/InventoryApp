@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/InventoryApp/static/js/main.a2c18512.chunk.js",
+    "main.js.map": "/InventoryApp/static/js/main.a2c18512.chunk.js.map",
+    "runtime~main.js": "/InventoryApp/static/js/runtime~main.2f401b8a.js",
+    "runtime~main.js.map": "/InventoryApp/static/js/runtime~main.2f401b8a.js.map",
+    "static/js/2.6c796f95.chunk.js": "/InventoryApp/static/js/2.6c796f95.chunk.js",
+    "static/js/2.6c796f95.chunk.js.map": "/InventoryApp/static/js/2.6c796f95.chunk.js.map",
+    "index.html": "/InventoryApp/index.html",
+    "precache-manifest.0414c3410a6af50f83595794978d5ba5.js": "/InventoryApp/precache-manifest.0414c3410a6af50f83595794978d5ba5.js",
+    "service-worker.js": "/InventoryApp/service-worker.js",
+    "static/media/deleting.gif": "/InventoryApp/static/media/deleting.817596d6.gif",
+    "static/media/loading.gif": "/InventoryApp/static/media/loading.ed236853.gif"
+  }
+}
