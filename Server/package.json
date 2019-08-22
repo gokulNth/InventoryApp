@@ -1,0 +1,12 @@
+{
+  "name": "Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch src/bill.json -p 3001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,17 @@
+{
+  "bills": [
+    {
+      "w-myjCNfB": {
+        "0": {
+          "name": "Cool Drinks",
+          "sold": 1
+        },
+        "1": {
+          "name": "Ice Cream",
+          "sold": 1
+        }
+      },
+      "id": 1
+    }
+  ]
+}
