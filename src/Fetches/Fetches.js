@@ -115,12 +115,12 @@ const add = async state => {
 };
 
 const update = async (state, push) => {
-  let data = [];
+  let data = {};
   for (let i = 0; i < state.items.length; i++) {
-    data.push({
-      name: state.items[i],
-      sold: state.selected_items[state.items[i]].req
-    });
+    data = {
+      ...data,
+      [state.items[i]]: state.selected_items[state.items[i]].req
+    };
   }
   await state.items.map(async i => {
     return await docRef

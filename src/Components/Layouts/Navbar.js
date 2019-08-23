@@ -15,7 +15,7 @@ const Navbar = props => {
           position: 'relative'
         }}
       >
-        <span onClick={props.toggle} style={{ cursor: 'pointer' }}>
+        <span onMouseOver={props.toggle} style={{ cursor: 'pointer' }}>
           <img src={logo} style={{ marginBottom: '3%' }} alt='SL Ice&Store' />
           <strong
             className='hide-on-small-only'

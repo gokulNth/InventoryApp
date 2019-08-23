@@ -61,10 +61,10 @@ class Homepage extends React.Component {
                         <Link to='/add'>Add Product</Link>
                       </li>
                       <li className='collection-item'>
-                        <Link to='/'>Reports</Link>
+                        <Link to='/reports'>Reports</Link>
                       </li>
                       <li className='collection-item'>
-                        <Link to='/'>Wanted List</Link>
+                        <Link to='/wanted'>Wanted List</Link>
                       </li>
                     </ul>
                   </div>
@@ -78,15 +78,13 @@ class Homepage extends React.Component {
                   );
                 })
               ) : this.props.state.isloading === 'Loading...' ? (
-                <React.Fragment>
-                  <div style={{ margin: '0 auto', width: '50%' }}>
-                    <img
-                      src={loading}
-                      alt='Loading...'
-                      style={{ margin: '0 auto', width: '99%' }}
-                    />
-                  </div>
-                </React.Fragment>
+                <div style={{ margin: '0 auto', width: '50%' }}>
+                  <img
+                    src={loading}
+                    alt='Loading...'
+                    style={{ margin: '0 auto', width: '99%' }}
+                  />
+                </div>
               ) : (
                 <div
                   style={{
